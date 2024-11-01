@@ -159,4 +159,4 @@
 
 点个star吧！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mini-full/zju-welcome&type=Timeline)](https://star-history.com/#mini-full/zju-welcome&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=kxwangzju/zju-welcome&type=Timeline)](https://star-history.com/#kxwangzju/zju-welcome&Timeline)
