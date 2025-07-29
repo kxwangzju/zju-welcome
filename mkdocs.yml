@@ -52,7 +52,9 @@ nav:
     - 课程考核: "learning/eval.md"
     - 专业分流: "learning/declaring_major.md"
     - 转专业: "learning/major_transfer.md"
+    - 辅修: "learning/minor.md"    
     - 特殊课程: "learning/special_course.md"
+    - 科研学术: "learning/research_academic.md"
     - 训练计划: "learning/training_program.md"
     - 学科竞赛: "learning/competitions.md"
     - 竺院选拔: "learning/intoCKC.md"
@@ -67,6 +69,7 @@ nav:
     - 荣誉称号体系: "awards&grants/honor.md"
     - 奖学金: "awards&grants/scholarships.md"
     - 学生资助: "awards&grants/grants.md"
+    - 奖助（竺可桢学院）: "awards&grants/awards_ckc.md"    
   - 生活:
     - 校园区域: "life/campus.md"
     - 寝室园区: "life/dorm.md"
