@@ -22,7 +22,7 @@
 
 - 账号：即个人学号
 
-- 初始密码：zju2024加证件号后四位
+- 初始密码：zju2025加证件号后四位
 
 ![img0](./assets/network_detailed/Clipboard_2024-07-23-21-20-17.webp)
 
