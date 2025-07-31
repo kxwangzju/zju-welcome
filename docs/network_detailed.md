@@ -104,7 +104,7 @@ VPN套餐开启后，有1个月的免费试用期，试用期过后需要缴费�
 
 - 部分网页已经直接列入“校内资源导航”中，可以直接访问
 
-- 如希望访问其他网页，可以将网页原地址复制下来，如：www.cc98.org ，粘贴至右上角“自定义域名”处，回车键入即可访问。
+- 如希望访问其他网页，可以将网页原地址复制下来，如：https://www.cc98.org ，粘贴至右上角“自定义域名”处，回车键入即可访问。
 
 ### 访问内网小tips
 
@@ -130,11 +130,22 @@ VPN套餐开启后，有1个月的免费试用期，试用期过后需要缴费�
 
 #### 网址转换
 
-WebVPN网址转换为原始网址，需要删去网址中的 `-zju-edu-cn.webvpn`和 `:8001`，将多于的 `-`转为 `.`且 `:8001`后的后缀保持不变，如：
 
-**WebVPN下网址：** http://www-xgb-zju-edu-cn.webvpn.zju.edu.cn:8001/2024/0713/c53018a2945913/page.psp
+WebVPN网址转换为原始网址，大致遵循以下规则：
 
-**对应初始网址：** http://www.xgb.zju.edu.cn/2024/0713/c53018a2945913/page.psp
+- 如果是`http`协议，删去网址中的`webvpn`和`:8001`，将多于的`-`转为`.`且`:8001`后的后缀保持不变
+- 如果是`https`协议，删去网址中的`s`、`webvpn`和`:8001`，将多于的`-`转为`.`且`:8001`后的后缀保持不变
+
+>例如：
+>
+>    - **WebVPN下网址：** [http://www-xgb-zju-edu-cn.webvpn.zju.edu.cn:8001/2024/0713/c53018a2945913/page.psp](http://www-xgb-zju-edu-cn.webvpn.zju.edu.cn:8001/2024/0713/c53018a2945913/page.psp)    
+>    - **对应初始网址：** [http://www.xgb.zju.edu.cn/2024/0713/c53018a2945913/page.psp](http://www.xgb.zju.edu.cn/2024/0713/c53018a2945913/page.psp)  
+>- HTTPS协议：
+>    - **WebVPN下网址：** [http://www-cc98-org-s.webvpn.zju.edu.cn:8001/](http://www-cc98-org-s.webvpn.zju.edu.cn:8001/)  
+>    - **对应初始网址：** [https://www.cc98.org](https://www.cc98.org)  
+
+
+
 
 ## 浙大钉注册
 
