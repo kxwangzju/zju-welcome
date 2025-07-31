@@ -69,7 +69,7 @@
 
 宣传场地位于紫云和碧峰中间的广场（未来广场），分A-J区；自习室和活动室在紫云4舍架空层、碧峰4舍架空层、紫云连廊等均有分布；详情请见下表：
 
-![公共空间](../assets/yunfeng/zone-in-yunfeng.webp)
+![公共空间](../assets/yunfeng/zone-in-yunfeng.webp){width=60%}
 
 ### 宿舍总值班室
 

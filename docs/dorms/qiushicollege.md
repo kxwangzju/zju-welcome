@@ -105,4 +105,4 @@
 
 公众号：浙江大学求是学院
 
-![qiushi_college](../assets/qiushi_college.jpg)
+![qiushi_college](../assets/qiushi_college.jpg){width="30%"}

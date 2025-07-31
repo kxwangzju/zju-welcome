@@ -179,6 +179,7 @@ plugins:
   - privacy
 
 markdown_extensions:
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
 
