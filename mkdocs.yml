@@ -50,19 +50,20 @@ nav:
     - 基本概念: "learning/concepts.md"
     - 培养方案: "learning/program.md"
     - 课程考核: "learning/eval.md"
-    - 专业确认: "learning/declaring_major.md"
-    - 转专业: "learning/major_transfer.md"
-    - 辅修: "learning/minor.md"    
-    - 特殊课程: "learning/special_course.md"
+    - 专业相关:
+      - 专业确认: "learning/declaring_major.md"
+      - 转专业: "learning/major_transfer.md"
+      - 辅修: "learning/minor.md"    
+    - 选课:
+      - 选课通知: "course_sys/enroll.md"
+      - 选课规则: "course_sys/rules.md"
+      - 选课操作: "course_sys/operation.md"
+      - 选课技巧: "course_sys/tricks.md"
+      - 特殊课程: "learning/special_course.md"
     - 科研与素质训练: "learning/training_program.md"
     - 学科竞赛: "learning/competitions.md"
     - 竺院专题: "learning/intoCKC.md"
     - 邮件系统与礼仪: "learning/email_etiquette.md"
-  - 选课:
-    - 选课通知: "course_sys/enroll.md"
-    - 选课规则: "course_sys/rules.md"
-    - 选课操作: "course_sys/operation.md"
-    - 选课技巧: "course_sys/tricks.md"
   - 奖助:
     - 基础评价: "awards&grants/evaluation.md"
     - 荣誉称号: "awards&grants/honor.md"
@@ -87,8 +88,6 @@ nav:
     - 紫云碧峰学园: "dorms/yunfeng.md"
     - 蓝田学园: "dorms/lantian.md"
     - 竺可桢学院: "dorms/ckc.md"
-
-  
   - 海宁国际校区:
     - 概述: "haining/intro.md"
     - 常用信息:
