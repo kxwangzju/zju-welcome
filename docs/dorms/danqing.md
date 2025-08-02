@@ -86,4 +86,4 @@
 
 [丹青学园官方网站](https://dqxy.zju.edu.cn)
 
-![Wechat Account](../assets/danqing/danqing_qrcode.webp)
+![Wechat Account](../assets/danqing/danqing_qrcode.webp){width=40%}

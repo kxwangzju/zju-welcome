@@ -4,7 +4,7 @@
 
 浙江大学求是学院蓝田学园简称“蓝田学园”。
 
-![蓝田](../assets/lantian/map-about-lantian.webp)
+![蓝田](../assets/lantian/map-about-lantian.webp){width=60%}
 
 ## 专业结构
 
@@ -87,4 +87,4 @@
 
 微信公众号：
 
-![公众号](../assets/lantian/QRcodes-of-lantian.webp)
+![公众号](../assets/lantian/QRcodes-of-lantian.webp){width=60%}
