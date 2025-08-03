@@ -109,7 +109,7 @@
 - **感谢以下人员及单位对2021-2024年指引编撰与修订工作作出的贡献。**
 
 	- **CC98论坛用户**（按年份及昵称首字母为序，部分用户可能有所遗漏，敬请谅解！）
-  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@马二马纯上、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石，刘同学
+  > @2019爱学习、@boommmm、@ddjjz、@Holliea、@Morning_Sun、@qzx、@shio、@ShirleyW、@zjuer2080、@zshenobody、@ZYD0831、@哈士奇、@环己三烯、@辣辣为什么叫辣辣、@且寄白鹿_、@十年雪落、@徐弈之、@66666a、@Cockney、@Fraser、@GaAs9000、@jude0254、@leo142431、@mhqq、@Oregon、@pcrbsatm、@saltfish、@TuTu、@YAOX、@yihang、@Yyijun、@zra0509、@阿刀、@白丁阁主、@菠萝雨凤梨、@呆瓜粥、@德莫克里、@冬忍、@后朴、@靜水深流、@黎辉、@马二马纯上、@思之心忧、@添柴少年、@忘彬谦、@我记得密码、@无尘丨溯荒、@湘叶、@衣锦夜行、@御坂110号、@浙大俗人、@拙石、@RI_Finch、@易木Ewood、@SAVIA、@Trifct、@驼绒、@tgya、@落潮、@Slowist、@折一只纸鹭，刘同学
   
 	- 感谢原求是学院云峰学园主任**詹美燕老师**对2024年指引首次纸质化提供的建议与指导，感谢**刘永杰老师**对相关工作的具体联络与推进。
 
@@ -123,7 +123,7 @@
 
 ### 联系方式
 
-- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:22310176@zju.edu.cn)主编@Cu丶瞳，22310176@zju.edu.cn。也欢迎直接在github仓库中Pull Request！
+- 如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:ZJU_guidance@163.com)主编@Cu丶瞳，ZJU_guidance@163.com。也欢迎直接在github仓库中Pull Request！
 
 - 如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)@好神奇，huangshaoqi@zju.edu.cn
 
