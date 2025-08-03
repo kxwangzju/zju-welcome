@@ -21,16 +21,16 @@
 - **生活：** 在浙江大学校内、学校周边及杭州市的生活娱乐；
 - **园区：** 关于未来两年或更长时间你所生活的地方；
 - **CC98论坛：** CC98论坛攻略，同时收录了前辈们撰写的部分优质经验；
-- **海宁国际校区专题：** 海宁校区的同学可以 **[先戳这里](./haining/intro.md)**；
-- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./HK_Macao_Taiwan/id.md)**。
+- **海宁国际校区专题：** 海宁校区的同学可以 **[先戳这里](./docs/haining/intro.md)**；
+- **港澳台生专题：** 港澳台籍同学可以 **[先戳这里](./docs/HK_Macao_Taiwan/id.md)**。
 
 建议同学们可以从头到尾看一遍，以全面了解未来在浙江大学的学习生活。有需要时，也可以在上方搜索框内输入关键词进行搜索，定向查找需要的内容，相信绝大多数问题都可以在这里得到解答。
 
 **如果你觉得[本站点](https://zjuers.com/welcome)有用，非常欢迎推荐给身边的同学~**
 
-**想要了解指引的前世今生？可以戳一戳[前言](./preface.md)**
+**想要了解指引的前世今生？可以戳一戳[前言](./docs/preface.md)**
 
-**同时，我们也向你隆重介绍浙大人的精神家园——[CC98论坛](./cc98/cc98.md)**
+**同时，我们也向你隆重介绍浙大人的精神家园——[CC98论坛](./docs/cc98/cc98.md)**
 
 ## 修订日志
 
@@ -91,10 +91,10 @@
 
 ### 2025年编委会名单
 
-- 主编：[@Cu丶瞳](https://www.cc98.org./user/id/650455)
-- 编委：[@有只哗哗](https://www.cc98.org./user/id/741777)，[@3200101971](https://www.cc98.org./user/id/648740)，[@梦想天堂](https://www.cc98.org./user/id/763809)，[@因幡巡](https://www.cc98.org./user/id/761550)，[@莫聂](https://www.cc98.org./user/id/702596)，[@水晶镜影](https://www.cc98.org./user/id/763786)，[@distantOwl](https://www.cc98.org./user/id/650455)，[@孤木](https://www.cc98.org./user/id/732512)，[@阿刀](https://www.cc98.org./user/id/735124)
-- 顾问：[@好神奇](https://www.cc98.org./user/id/658113)
-- 技术支持：[@minifull](https://www.cc98.org./user/id/667590)，[@zyz1z1](https://www.cc98.org./user/id/634438)
+- 主编：[@Cu丶瞳](https://www.cc98.org/user/id/650455)
+- 编委：[@有只哗哗](https://www.cc98.org/user/id/741777)，[@3200101971](https://www.cc98.org/user/id/648740)，[@梦想天堂](https://www.cc98.org/user/id/763809)，[@因幡巡](https://www.cc98.org/user/id/761550)，[@莫聂](https://www.cc98.org/user/id/702596)，[@水晶镜影](https://www.cc98.org/user/id/763786)，[@distantOwl](https://www.cc98.org/user/id/650455)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)
+- 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
+- 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 
 ### 鸣谢
 
