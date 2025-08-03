@@ -99,10 +99,10 @@
 
 ### 2025年编委会名单
 
-- 主编：[@Cu丶瞳](https://www.cc98.org./user/id/650455)
-- 编委：[@有只哗哗](https://www.cc98.org./user/id/741777)，[@3200101971](https://www.cc98.org./user/id/648740)，[@梦想天堂](https://www.cc98.org./user/id/763809)，[@因幡巡](https://www.cc98.org./user/id/761550)，[@莫聂](https://www.cc98.org./user/id/702596)，[@水晶镜影](https://www.cc98.org./user/id/763786)，[@distantOwl](https://www.cc98.org./user/id/650455)，[@孤木](https://www.cc98.org./user/id/732512)，[@阿刀](https://www.cc98.org./user/id/735124)
-- 顾问：[@好神奇](https://www.cc98.org./user/id/658113)
-- 技术支持：[@minifull](https://www.cc98.org./user/id/667590)，[@zyz1z1](https://www.cc98.org./user/id/634438)
+- 主编：[@Cu丶瞳](https://www.cc98.org/user/id/650455)
+- 编委：[@有只哗哗](https://www.cc98.org/user/id/741777)，[@3200101971](https://www.cc98.org/user/id/648740)，[@梦想天堂](https://www.cc98.org/user/id/763809)，[@因幡巡](https://www.cc98.org/user/id/761550)，[@莫聂](https://www.cc98.org/user/id/702596)，[@水晶镜影](https://www.cc98.org/user/id/763786)，[@distantOwl](https://www.cc98.org/user/id/650455)，[@孤木](https://www.cc98.org/user/id/732512)，[@阿刀](https://www.cc98.org/user/id/735124)
+- 顾问：[@好神奇](https://www.cc98.org/user/id/658113)
+- 技术支持：[@minifull](https://www.cc98.org/user/id/667590)，[@zyz1z1](https://www.cc98.org/user/id/634438)
 
 ### 鸣谢
 
