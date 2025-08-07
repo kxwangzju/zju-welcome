@@ -13,7 +13,10 @@
 ## 求是学院大类内专业确认
 
 主修专业确认具体政策文件如下（需用内网访问）：
-[浙江大学本科生主修专业确认及转专业管理办法](http://10-203-3-207-8080-p.webvpn.zju.edu.cn:8001/xwfw/gfxwj/tpl/template-1/info.html?id=6259&list=gfxwj&context=&style=)
+[浙江大学本科生主修专业确认及转专业管理办法](http://10.203.3.207:8080/xwfw/gfxwj/tpl/template-1/info.html?id=6259&list=gfxwj&context=&style=)
+
+2025级开始，主修专业确认与转专业政策变动较大，@lire 前辈对此做了详细介绍：
+[主修专业确认和转专业新政策发布](https://zjuers.com/rd?url=https://www.cc98.org/topic/6241951)
 
 ### 时间
 
