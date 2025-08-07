@@ -1,10 +1,10 @@
-site_name: 浙江大学本科新生指引
+site_name: 2025年浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 repo_name: zju-welcome
-repo_url: https://github.com/mini-full/zju-welcome/
+repo_url: https://github.com/kxwangzju/zju-welcome/
 
-copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" target="_blank" rel="noopener noreferrer">minifull</a>
+copyright: Copyright &copy; 2023-present <a href="https://github.com/kxwangzju/zju-welcome/" target="_blank" rel="noopener noreferrer">新生指引编委会</a>
 
 
 nav:
@@ -28,7 +28,7 @@ nav:
       - 常用电话: "basics/contact.md"
       - 常用网站: "basics/websites.md"
       - 公众号和小程序: "basics/channels.md"
-      - 软件使用: "basics/software.md"
+      - 常用软件: "basics/software.md"
     - 特色黑话: "basics/slang.md"
   - 报到:
     - 注册缴费: "registration/fee.md"
@@ -38,6 +38,7 @@ nav:
     - 报到流程: "registration/procedure.md"
     - 始业教育: "registration/initial_edu.md"
     - 新生防骗: "registration/secure.md"
+    - 校园套餐电话卡: "registration/cellphone-plans.md"
   - 军训:
     - 作息时间: "military_training/time.md"
     - 组织架构: "military_training/structure.md"
@@ -49,13 +50,14 @@ nav:
     - 基本概念: "learning/concepts.md"
     - 培养方案: "learning/program.md"
     - 课程考核: "learning/eval.md"
-    - 专业分流: "learning/declaring_major.md"
+    - 专业确认: "learning/declaring_major.md"
     - 转专业: "learning/major_transfer.md"
+    - 辅修: "learning/minor.md"    
     - 特殊课程: "learning/special_course.md"
-    - 训练计划: "learning/training_program.md"
+    - 科研与素质训练: "learning/training_program.md"
     - 学科竞赛: "learning/competitions.md"
-    - 竺院选拔: "learning/intoCKC.md"
-    - 邮件系统与邮件礼仪: "learning/email_etiquette.md"
+    - 竺院专题: "learning/intoCKC.md"
+    - 邮件系统与礼仪: "learning/email_etiquette.md"
   - 选课:
     - 选课通知: "course_sys/enroll.md"
     - 选课规则: "course_sys/rules.md"
@@ -63,9 +65,10 @@ nav:
     - 选课技巧: "course_sys/tricks.md"
   - 奖助:
     - 基础评价: "awards&grants/evaluation.md"
-    - 荣誉称号体系: "awards&grants/honor.md"
+    - 荣誉称号: "awards&grants/honor.md"
     - 奖学金: "awards&grants/scholarships.md"
     - 学生资助: "awards&grants/grants.md"
+    - 竺院专题: "awards&grants/awards_ckc.md"    
   - 生活:
     - 校园区域: "life/campus.md"
     - 寝室园区: "life/dorm.md"
@@ -74,13 +77,12 @@ nav:
     - 饮食消费: "life/canteen.md"
     - 校园交通: "life/traffic.md"
     - 就医服务: "life/medical-treatment.md"
-    - 图书馆介绍: "life/library.md"
-    - 运动场馆与艺术中心: "life/sports.md"
-    - 自习空间查询&会议面试场地借用: "life/public_resources.md"
-    - 学生组织与社团: "life/extracurricular.md"
+    - 图书馆: "life/library.md"
+    - 场馆空间: "life/public_resources.md"
+    - 组织社团: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
-    - 校园卡电话套餐: "life/cellphone-plans.md"
   - 园区:
+    - 求是学院: "dorms/qiushicollege.md"
     - 丹阳青溪学园: "dorms/danqing.md"
     - 紫云碧峰学园: "dorms/yunfeng.md"
     - 蓝田学园: "dorms/lantian.md"
@@ -175,22 +177,31 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
+  - privacy
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mini-full/zju-welcome
+      link: https://github.com/kxwangzju/zju-welcome
     - icon: material/forum
-      link: https://www.cc98.org/topic/5672880
+      link: https://www.cc98.org/topic/6250228
     - icon: fontawesome/solid/paper-plane
       link: mailto:kaixuanwang@zju.edu.cn
     - icon: simple/githubpages
-      link: https://mini-full.github.io/zju-welcome/
+      link: https://kxwangzju.github.io/zju-welcome/
     - icon: material/web-check
       link: https://zjuers.com/welcome/
     

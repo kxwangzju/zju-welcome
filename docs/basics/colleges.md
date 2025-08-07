@@ -56,7 +56,7 @@
 | [信息与电子工程学院](http://www.isee.zju.edu.cn/)          | 玉泉 | 信电     | 信息工程，微电子科学与工程，电子科学与技术               |
 | [控制科学与工程学院](http://www.cse.zju.edu.cn/)           | 玉泉 | 控院     | 自动化，机器人工程                                       |
 | [计算机科学与技术学院](http://www.cs.zju.edu.cn/)          | 玉泉 | 计院     | 计算机科学与技术，软件工程，信息安全，工业设计，人工智能 |
-| [软件学院](http://www.cst.zju.edu.cn/)                     | 玉泉 | 软院     | 无本科生                                                 |
+| [软件学院](http://www.cst.zju.edu.cn/)                     | 宁波 | 软院     | 无本科生                                                 |
 | [生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/) | 玉泉 | 生仪     | 生物医学工程                                             |
 | [集成电路学院](https://mne.zju.edu.cn/)                    | 科创 |          | 无本科生                                                 |
 
