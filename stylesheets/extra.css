@@ -1,0 +1,9 @@
+:root {
+    --md-primary-fg-color:        #003F88;
+    --md-primary-fg-color--light: #003F88;
+    --md-primary-fg-color--dark:  #003F88;
+  }
+  
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold !important;
+}
